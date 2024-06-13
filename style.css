@@ -1,0 +1,12 @@
+img, embed, object, video{
+    max-width: 100%;
+}
+
+body {
+    background-color: grey;
+    text-align: center;
+    color: yellow;
+    font-size: larger;
+
+
+}
